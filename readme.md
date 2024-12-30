@@ -15,15 +15,19 @@ Deskripsi Pada daftar project akan menampilkan **Baca Selengkapnya** jika panjan
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/Ripaldiansyah/my-project-app-dumbways.git
 
    ```
+
 2. Navigate to the project folder:
+
    ```bash
    cd my-project-app-dumbways
 
    ```
+
 3. Open with vscode:
    ```bash
    code .
@@ -51,46 +55,58 @@ Deskripsi Pada daftar project akan menampilkan **Baca Selengkapnya** jika panjan
 
 ## Screenshots
 
+### Home
+
 ![Home](screenshots/home.png)
-![Home](screenshots/homeMobile.png)
-![Home](screenshots/homeMobile2.png)
-![Home](screenshots/homeMobileNav.png)
-_Home_
+![Home Mobile](screenshots/homeMobile.png)
+![Home Mobile 2](screenshots/homeMobile2.png)
+![Home Mobile Navigation](screenshots/homeMobileNav.png)
+_Halaman utama aplikasi_
+
+### Fitur untuk Menambahkan Project
 
 ![Add My Project](screenshots/addProject.png)
-![Add My Project](screenshots/addProjectValidation.png)
-![Add My Project](screenshots/addProjectValidation2.png)
-![Add My Project](screenshots/addProjectValidation3.png)
-![Add My Project](screenshots/addProjectValidation4.png)
-![Add My Project](screenshots/addProjectValidation5.png)
-![Add My Project](screenshots/addProjectMobile.png)
-![Add My Project](screenshots/addProjectMobileValidation.png)
-![Add My Project](screenshots/addProjectMobileValidation2.png)
-![Add My Project](screenshots/addProjectMobileValidation3.png)
-![Add My Project](screenshots/addProjectMobileValidation4.png)
-![Add My Project](screenshots/addProjectMobileValidation5.png)
+![Add My Project Validation](screenshots/addProjectValidation.png)
+![Add My Project Validation 2](screenshots/addProjectValidation2.png)
+![Add My Project Validation 3](screenshots/addProjectValidation3.png)
+![Add My Project Validation 4](screenshots/addProjectValidation4.png)
+![Add My Project Validation 5](screenshots/addProjectValidation5.png)
+![Add My Project Mobile](screenshots/addProjectMobile.png)
+![Add My Project Mobile Validation](screenshots/addProjectMobileValidation.png)
+![Add My Project Mobile Validation 2](screenshots/addProjectMobileValidation2.png)
+![Add My Project Mobile Validation 3](screenshots/addProjectMobileValidation3.png)
+![Add My Project Mobile Validation 4](screenshots/addProjectMobileValidation4.png)
+![Add My Project Mobile Validation 5](screenshots/addProjectMobileValidation5.png)
 _Fitur untuk menambahkan project_
 
-![Daftar Project](screenshots/listProject.png)
-![Daftar Project](screenshots/listMobile.png)
-![Daftar Project](screenshots/listMobile2.png)
-_Daftar Project yang telah di tambahkan ke database_
+### Daftar Project
 
-![Explore](screenshots/listProjectValidation.png)
-![Explore](screenshots/listProjectValidation2.png)
-![Explore](screenshots/listProjectMobileValidation.png)
-![Explore](screenshots/listProjectMobileValidation2.png)
-_delete project_
+![List of Projects](screenshots/listProject.png)
+![List of Projects Mobile](screenshots/listProjectMobile.png)
+![List of Projects Mobile 2](screenshots/listProjectMobile2.png)
+_Daftar project yang telah ditambahkan ke database_
 
-![Explore](screenshots/editProject.png)
-![Explore](screenshots/editProjectMobile.png)
-_Fitur edit project_
+### Explore & Delete Project
 
-![Explore](screenshots/contact.png)
-![Explore](screenshots/contactValidation.png)
-![Explore](screenshots/contactValidation2.png)
-![Explore](screenshots/contactValidation3.png)
-![Explore](screenshots/contactMobileValidation.png)
-![Explore](screenshots/contactMobileValidation2.png)
-![Explore](screenshots/contactMobileValidation3.png)
-_Halaman contact yang akan membuka aplikasi email jika disubmit_
+![Explore Project Validation](screenshots/listProjectValidation.png)
+![Explore Project Validation 2](screenshots/listProjectValidation2.png)
+![Explore Project Mobile Validation](screenshots/listProjectMobileValidation.png)
+![Explore Project Mobile Validation 2](screenshots/listProjectMobileValidation2.png)
+_Fitur untuk mengeksplorasi dan menghapus project_
+
+### Fitur Edit Project
+
+![Edit Project](screenshots/editProject.png)
+![Edit Project Mobile](screenshots/editProjectMobile.png)
+_Fitur untuk mengedit project_
+
+### Halaman Kontak
+
+![Contact](screenshots/contact.png)
+![Contact Validation](screenshots/contactValidation.png)
+![Contact Validation 2](screenshots/contactValidation2.png)
+![Contact Validation 3](screenshots/contactValidation3.png)
+![Contact Mobile Validation](screenshots/contactMobileValidation.png)
+![Contact Mobile Validation 2](screenshots/contactMobileValidation2.png)
+![Contact Mobile Validation 3](screenshots/contactMobileValidation3.png)
+_Halaman kontak yang akan membuka aplikasi email jika disubmit_
