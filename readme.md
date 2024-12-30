@@ -57,56 +57,57 @@ Deskripsi Pada daftar project akan menampilkan **Baca Selengkapnya** jika panjan
 
 ### Home
 
-![Home](screenshots/home.png)
-![Home Mobile](screenshots/homeMobile.png)
-![Home Mobile 2](screenshots/homeMobile2.png)
-![Home Mobile Navigation](screenshots/homeMobileNav.png)
-_Halaman utama aplikasi_
+| Desktop                                       | Mobile                                                   |
+| --------------------------------------------- | -------------------------------------------------------- |
+| ![Home](screenshots/home.png)                 | ![Home Mobile](screenshots/homeMobile.png)               |
+| ![Home Mobile 2](screenshots/homeMobile2.png) | ![Home Mobile Navigation](screenshots/homeMobileNav.png) |
+
+---
 
 ### Fitur untuk Menambahkan Project
 
-![Add My Project](screenshots/addProject.png)
-![Add My Project Validation](screenshots/addProjectValidation.png)
-![Add My Project Validation 2](screenshots/addProjectValidation2.png)
-![Add My Project Validation 3](screenshots/addProjectValidation3.png)
-![Add My Project Validation 4](screenshots/addProjectValidation4.png)
-![Add My Project Validation 5](screenshots/addProjectValidation5.png)
-![Add My Project Mobile](screenshots/addProjectMobile.png)
-![Add My Project Mobile Validation](screenshots/addProjectMobileValidation.png)
-![Add My Project Mobile Validation 2](screenshots/addProjectMobileValidation2.png)
-![Add My Project Mobile Validation 3](screenshots/addProjectMobileValidation3.png)
-![Add My Project Mobile Validation 4](screenshots/addProjectMobileValidation4.png)
-![Add My Project Mobile Validation 5](screenshots/addProjectMobileValidation5.png)
-_Fitur untuk menambahkan project_
+| Desktop                                                               | Mobile                                                                             |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| ![Add My Project](screenshots/addProject.png)                         | ![Add My Project Mobile](screenshots/addProjectMobile.png)                         |
+| ![Add My Project Validation](screenshots/addProjectValidation.png)    | ![Add My Project Mobile Validation](screenshots/addProjectMobileValidation.png)    |
+| ![Add My Project Validation 2](screenshots/addProjectValidation2.png) | ![Add My Project Mobile Validation 2](screenshots/addProjectMobileValidation2.png) |
+| ![Add My Project Validation 3](screenshots/addProjectValidation3.png) | ![Add My Project Mobile Validation 3](screenshots/addProjectMobileValidation3.png) |
+| ![Add My Project Validation 4](screenshots/addProjectValidation4.png) | ![Add My Project Mobile Validation 4](screenshots/addProjectMobileValidation4.png) |
+| ![Add My Project Validation 5](screenshots/addProjectValidation5.png) | ![Add My Project Mobile Validation 5](screenshots/addProjectMobileValidation5.png) |
+
+---
 
 ### Daftar Project
 
-![List of Projects](screenshots/listProject.png)
-![List of Projects Mobile](screenshots/listProjectMobile.png)
-![List of Projects Mobile 2](screenshots/listProjectMobile2.png)
-_Daftar project yang telah ditambahkan ke database_
+| Desktop                                          | Mobile                                                           |
+| ------------------------------------------------ | ---------------------------------------------------------------- |
+| ![List of Projects](screenshots/listProject.png) | ![List of Projects Mobile](screenshots/listProjectMobile.png)    |
+|                                                  | ![List of Projects Mobile 2](screenshots/listProjectMobile2.png) |
+
+---
 
 ### Explore & Delete Project
 
-![Explore Project Validation](screenshots/listProjectValidation.png)
-![Explore Project Validation 2](screenshots/listProjectValidation2.png)
-![Explore Project Mobile Validation](screenshots/listProjectMobileValidation.png)
-![Explore Project Mobile Validation 2](screenshots/listProjectMobileValidation2.png)
-_Fitur untuk mengeksplorasi dan menghapus project_
+| Desktop                                                                 | Mobile                                                                               |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| ![Explore Project Validation](screenshots/listProjectValidation.png)    | ![Explore Project Mobile Validation](screenshots/listProjectMobileValidation.png)    |
+| ![Explore Project Validation 2](screenshots/listProjectValidation2.png) | ![Explore Project Mobile Validation 2](screenshots/listProjectMobileValidation2.png) |
+
+---
 
 ### Fitur Edit Project
 
-![Edit Project](screenshots/editProject.png)
-![Edit Project Mobile](screenshots/editProjectMobile.png)
-_Fitur untuk mengedit project_
+| Desktop                                      | Mobile                                                    |
+| -------------------------------------------- | --------------------------------------------------------- |
+| ![Edit Project](screenshots/editProject.png) | ![Edit Project Mobile](screenshots/editProjectMobile.png) |
+
+---
 
 ### Halaman Kontak
 
-![Contact](screenshots/contact.png)
-![Contact Validation](screenshots/contactValidation.png)
-![Contact Validation 2](screenshots/contactValidation2.png)
-![Contact Validation 3](screenshots/contactValidation3.png)
-![Contact Mobile Validation](screenshots/contactMobileValidation.png)
-![Contact Mobile Validation 2](screenshots/contactMobileValidation2.png)
-![Contact Mobile Validation 3](screenshots/contactMobileValidation3.png)
-_Halaman kontak yang akan membuka aplikasi email jika disubmit_
+| Desktop                                                     | Mobile                                                                   |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------ |
+| ![Contact](screenshots/contact.png)                         | ![Contact Mobile Validation](screenshots/contactMobileValidation.png)    |
+| ![Contact Validation](screenshots/contactValidation.png)    | ![Contact Mobile Validation 2](screenshots/contactMobileValidation2.png) |
+| ![Contact Validation 2](screenshots/contactValidation2.png) | ![Contact Mobile Validation 3](screenshots/contactMobileValidation3.png) |
+| ![Contact Validation 3](screenshots/contactValidation3.png) |                                                                          |
